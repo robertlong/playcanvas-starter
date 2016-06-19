@@ -1,1 +1,1 @@
-"# playcanvas-starter" 
+# playcanvas-starter
